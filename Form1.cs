@@ -18,7 +18,7 @@ namespace WinFormsApp1
             switch (isaret)
             {
                 case "+":
-                    lbl_sonuc.Text = "sayi" + "+" + "sayi_2" + "=" + Convert.ToString(sayi + sayi_2); 
+                    lbl_sonuc.Text = "sayi   " + "+" + "sayi_2" + "=" + Convert.ToString(sayi + sayi_2); 
 
 
 
